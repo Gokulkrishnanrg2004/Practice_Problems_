@@ -1,4 +1,5 @@
 //152. Maximum Product Subarray
+// Using Kadanes Algorithm
 class Solution {
 public:
     int maxProduct(vector<int>& nums) 
